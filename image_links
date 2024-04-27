@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Links</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .gallery {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            grid-gap: 10px;
+        }
+        .gallery img {
+            width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Welcome to Image Links</h1>
+            <p>Explore our website to find images related to different topics.</p>
+            <img src="https://th.bing.com/th/id/OIP.IeVGEpKL7jrrJEavM73IogHaEk?w=260&h=180&c=7&r=0&o=5&dpr=1.2&pid=1.7"alt="Technology"/>
+        </header>
+        <section>
+            <h2>Gallery</h2>
+            <div class="gallery">
+            </div>
+        </section>
+        <img src="https://th.bing.com/th/id/OIP.pUCLOhrVZfmo6X3OrJWASgHaE8?w=247&h=180&c=7&r=0&o=5&dpr=1.2&pid=1.7"alt="Nature"/>
+        <img src="https://th.bing.com/th/id/OIP.mYWopSug3k_E8lUA5GCwAAHaEo?w=262&h=180&c=7&r=0&o=5&dpr=1.2&pid=1.7"alt="Nature"/>
+        <img src="https://th.bing.com/th/id/OIP.mYWopSug3k_E8lUA5GCwAAHaEo?w=262&h=180&c=7&r=0&o=5&dpr=1.2&pid=1.7"alt="Nature"/>
+        <img src="https://th.bing.com/th/id/OIP.vH-6keMbgjldpLBb3sl4ogHaLG?w=115&h=180&c=7&r=0&o=5&dpr=1.2&pid=1.7"alt="Nature"/>
+    <img src="https://th.bing.com/th/id/OIP._jHYR1ygt-JCDENmqS-L7QHaFj?w=217&h=180&c=7&r=0&o=5&dpr=1.2&pid=1.7"alt="Nature"/>
+            <h2><b>Menu</b></h2>
+            <img src="https://th.bing.com/th/id/OIP.45zNGJvEHe_kflXBm3UraAHaHa?rs=1&pid=ImgDetMain" alt="Rice and Beef"width="200"height="200"/>
+<img src="https://th.bing.com/th/id/OIP.DHE1zs0bHCHvJ2HAW_oc3wHaGt?w=169&h=180&c=7&r=0&o=5&dpr=1.2&pid=1.7"alt= "Ugali and Beef"width="200"height="200"/>
+   
+              </section>
+    </div>
+</body>
+</html>
